@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location Tracker</string>
+
+    <string name="main_menu_exit">Exit</string>
+
+    <string name="main_menu_signin">Sign In</string>
+
+    <string name="main_firebase_hint">Firebase URL</string>
+
+    <string name="main_enable_desc">Enable Tracking</string>
+</resources>
